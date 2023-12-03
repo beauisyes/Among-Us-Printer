@@ -2,10 +2,6 @@ import speech_recognition
 import pyttsx3
 from imageprint import printAmongus
 
-printer_name = "Canon TR4700 series"
-file_path = "amongus.png"
-
-
 recognizer = speech_recognition.Recognizer()
 
 while True:
